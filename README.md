@@ -1,1 +1,0 @@
--[DEMO LINK](https://shostyy.github.io/layout_dia/)
